@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KICK&GO",
+  "base_artist": "パソコン音楽クラブ",
+  "createdAt": "2025-12-20T01:04:11.065786Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KICK&GO(feat. 林青空)",
+      "artist": "パソコン音楽クラブ, 林青空",
+      "has_synced": false,
+      "path": "select/pl_01_KICK&GO(feat._林青空)_パソコン音楽クラブ,_林青空.txt"
+    }
+  ]
+}
